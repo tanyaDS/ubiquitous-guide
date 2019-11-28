@@ -1,2 +1,2 @@
-# ubiquitous-guide
+# lbgbm-class
 A repository for my personal projects 
